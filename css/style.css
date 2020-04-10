@@ -415,11 +415,6 @@ body{
     .footer-link:not(:last-child) {
         margin: 0;
     }
-}
-@media (max-width: 768px) {
-    .container {
-        max-width: 560px;
-    }
     .card-info{
         flex-wrap: wrap;
     }
