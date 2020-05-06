@@ -1,58 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cee8c25a-68d3-400b-a1a2-5116fe15897e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="a4974cae-0b8a-4483-aa72-beb7e02d3d8c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1aCvcrb0RjwzmJfaKHmD1q3gLfG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1bTdh2pvnGTHbmOVeUFrGtDVh6C" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Миша Web разработка\проекты\delivery" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cee8c25a-68d3-400b-a1a2-5116fe15897e" name="Default Changelist" comment="" />
-      <created>1586252472166</created>
+      <changelist id="a4974cae-0b8a-4483-aa72-beb7e02d3d8c" name="Default Changelist" comment="" />
+      <created>1588660132665</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586252472166</updated>
-      <workItem from="1586252474836" duration="8174000" />
-      <workItem from="1586328309970" duration="13300000" />
-      <workItem from="1586351378224" duration="669000" />
-      <workItem from="1586438654430" duration="18357000" />
-      <workItem from="1586512441530" duration="27318000" />
+      <updated>1588660132665</updated>
+      <workItem from="1588660135317" duration="8062000" />
+      <workItem from="1588673151101" duration="4870000" />
     </task>
     <servers />
   </component>
@@ -60,13 +38,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-7" y="-7" width="1180" height="542" maximized="true" key="DiffContextDialog" timestamp="1586543303304">
+    <state x="207" y="0" key="SettingsEditor" timestamp="1588665649297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="-7" y="-7" width="1180" height="542" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1586543303304" />
-    <state x="464" y="119" key="FileChooserDialogImpl" timestamp="1586351235812">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="464" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586351235812" />
+    <state x="207" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588665649297" />
   </component>
 </project>
